@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../../.."
+        }
+    ],
+    "settings": {
+    
+    "java.jdt.ls.java.home": "C:\\Users\\aymer\\Desktop\\TCPsystemSecureAutonomous\\jdk\\jdk-17.0.12",
+
+
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "java.format.settings.url": "file:///C:/Users/aymer/.vscode/java-formatter.xml",
+        "java.format.settings.profile": "GoogleStyle",
+        "java.project.referencedLibraries": [
+            "C:\\Users\\aymer\\Desktop\\TCPsystemSecureAutonomous\\jdk\\jdk-17.0.12\\lib\\javax.mail.jar"
+        ]
+    }
+}

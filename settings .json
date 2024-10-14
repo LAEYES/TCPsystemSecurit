@@ -1,0 +1,11 @@
+{
+  
+    "powershell.powerShellExePath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe", 
+    "powershell.integratedConsole.focusConsoleOnExecute": true, 
+    "powershell.scriptAnalysis.enable": true, 
+    "powershell.codeFormatting.enable": true, 
+    "powershell.developer.port": 4711, 
+    "powershell.startAutomatically": true, 
+    "powershell.enableProfileLoading": true, 
+    "powershell.integratedConsole.showOnStartup": true 
+}
